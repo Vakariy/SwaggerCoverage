@@ -1,1 +1,1 @@
-web: python reqover.py
+web: python test_pet.py
