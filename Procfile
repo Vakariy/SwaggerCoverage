@@ -1,1 +1,1 @@
-web: python test_pet.py
+test_pet.py
