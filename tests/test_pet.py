@@ -6,7 +6,7 @@ import requests
 from src.reqover import cover, upload_results, create_build
 
 # BASE_URL = 'https://petstore.swagger.io'
-BASE_URL = 'http://localhost:8080'
+BASE_URL = 'https://swaggercoverage.herokuapp.com'
 
 
 @pytest.mark.parametrize("id", [1, 2, 3, None])
